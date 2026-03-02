@@ -1,0 +1,1 @@
+common = ["apple","banana","chikko","danken"]
